@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pravintamill
 - 👀 I’m interested in Programming, Playing games, Music
-- 🌱 I’m currently learning Azure
-- 💞️ I’m looking to collaborate on Full stack development
+- 🌱 I’m currently learning AI, ML
+- 💞️ I’m looking to collaborate on Full stack development, AI, ML, Data Science
 - 📫 You can reach me @ pravin.tamill@gmail.com
 
 <!---
